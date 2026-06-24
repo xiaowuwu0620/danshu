@@ -62,9 +62,13 @@ Never use the old Kami ink-blue token in 丹书 output. Vermilion should remain 
    - Longer reports: use chapters only when each page can reach 60-80% useful density.
 
 4. Visualize only where the diagram teaches faster than prose.
-   - Time ranges: soft curve timeline.
-   - Options or topics: three-card map with a light curve across cards.
-   - Process: S-curve with numbered anchors. Keep each number physically paired with its text.
+   - Assign a semantic role before drawing any curve: time, route, flow, comparison, grouping, attention, or boundary.
+   - Do not reuse the same curve silhouette across adjacent pages. Vary direction, amplitude, openness, and anchoring only when the meaning changes.
+   - Time ranges: mostly horizontal, low-amplitude curve or stepped timeline.
+   - Options or topics: card map with separate local arcs, bracket curves, or enclosure paths; avoid one repeated wave behind every card.
+   - Process: S-curve or stepped path with numbered anchors. Keep each number physically paired with its text.
+   - Comparison: use split baselines, opposing arcs, or bar structure; do not use a decorative flow curve.
+   - Spatial fieldwork or route tasks: use a route line, map-like path, or checkpoint path instead of a generic S-curve.
    - Scoring or weights: stacked horizontal bar.
    - Category comparison: restrained bar chart.
    - Proportions: donut only when the parts sum to 100 and there are <= 6 parts.
@@ -72,7 +76,7 @@ Never use the old Kami ink-blue token in 丹书 output. Vermilion should remain 
 5. Typeset with negative space.
    - Leave one quiet zone per page.
    - Keep cards rectangular with radius <= 8pt.
-   - Use curves as structure, not decoration.
+   - Use curves as structure, not decoration; if removing the curve does not change comprehension, replace it with a divider, grid, bracket, or empty space.
    - Let text overlap a pale curve if needed, but never separate numbered dots from their labels.
 
 6. Verify visually.
@@ -91,5 +95,6 @@ Never use the old Kami ink-blue token in 丹书 output. Vermilion should remain 
 ## Useful References
 
 - Read `references/style.md` for layout patterns and chart choices.
+- Read the Curve Grammar section in `references/style.md` whenever a document needs more than one diagram or more than one curved element.
 - Read `references/checklist.md` before final delivery.
 - Use `scripts/export-highres-png.sh` to create 2K-4K page images from split PDFs when local tools permit.
