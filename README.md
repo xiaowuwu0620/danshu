@@ -65,6 +65,20 @@ Typography is serif-led. Chinese documents prefer `TsangerJinKai02` when availab
 
 ## Install / 安装
 
+### TRAE / skills CLI
+
+```bash
+npx skills add xiaowuwu0620/danshu --agent trae --global --yes
+```
+
+If you only want to check whether the skill can be discovered:
+
+```bash
+npx skills add xiaowuwu0620/danshu --list
+```
+
+### Codex manual install
+
 Copy the skill folder into your Codex skills directory:
 
 把 skill 文件夹复制到你的 Codex skills 目录：

@@ -1,6 +1,9 @@
 ---
 name: danshu
-description: Create restrained Chinese A4 PDF reports, one-pagers, briefs, and class/fieldwork handouts in the "丹书" style: warm parchment paper, Chinese vermilion #A33A2A as the only focus color, serif hierarchy, curved diagrams, data visualization, negative space, and polished PNG exports. Use when the user asks for 朱砂红/Kami/中国风/高级克制/曲线美感/负面空间/A4纵向/PDF/报告/调研/方案/讲义/作业说明/中文小报告.
+description: >-
+  Create restrained Chinese A4 PDF reports, briefs, handouts, and research
+  notes in the 丹书 style: warm parchment, vermilion focus, serif hierarchy,
+  curved diagrams, data visualization, negative space, and polished PNG exports.
 ---
 
 # 丹书
