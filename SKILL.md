@@ -95,9 +95,39 @@ Never use the old Kami ink-blue token in 丹书 output. Vermilion should remain 
 - For education documents, write for students first and administrators second.
 - Keep one final sentence that the reader can remember.
 
-## Useful References
+## Embedded Layout Reference
 
-- Read `references/style.md` for layout patterns and chart choices.
-- Read the Curve Grammar section in `references/style.md` whenever a document needs more than one diagram or more than one curved element.
-- Read `references/checklist.md` before final delivery.
-- Use `scripts/export-highres-png.sh` to create 2K-4K page images from split PDFs when local tools permit.
+Use this root-level `SKILL.md` as a self-contained TRAE/Codex-compatible version. Do not assume supporting files are installed.
+
+### Core Patterns
+
+- Opening page: one judgment-led title, one short thesis paragraph, one restrained metric block, one quiet curve or timeline.
+- Structure page: use 2-4 cards, a comparison pair, or a route map. Cards should clarify categories, not decorate fragments.
+- Decision page: use numbered questions, a scoring bar, or a next-action ladder. Keep the final conclusion isolated with negative space.
+- Fieldwork or class handouts: foreground who does what, when, with what evidence, and how it will be judged.
+
+### Curve Grammar
+
+- Give every curve a job before drawing it: time, route, flow, comparison, grouping, attention, or boundary.
+- Vary curves across pages. Repeating the same soft wave creates mannerism, not structure.
+- Time: use a mostly horizontal, low-amplitude curve or stepped timeline.
+- Process: use an S-curve or checkpoint path; each numbered dot must sit physically near its label.
+- Comparison: prefer split baselines, opposing arcs, or bars. Avoid using a decorative wave where a bar chart would explain better.
+- Spatial or fieldwork tasks: use map-like routes and checkpoints.
+- If a curve can be removed without changing comprehension, replace it with a divider, bracket, grid, or empty space.
+
+### Chart Choices
+
+- Time series: soft line or stepped timeline.
+- Ratios and weights: stacked horizontal bar.
+- Category comparison: restrained bar chart.
+- Proportions: donut only when parts sum to 100 and there are six or fewer parts.
+- Relationships: small flow map, bracket, or paired cards.
+
+### Final QA
+
+- Confirm page count, file names, and requested export formats.
+- Render every page to PNG before delivery.
+- Check title overlap, right-edge overflow, curve/text collisions, card crowding, footer collisions, and stray old blue.
+- Confirm vermilion remains a focus color rather than a dominant background.
+- For TRAE-installed use, keep all critical instructions inside this file.

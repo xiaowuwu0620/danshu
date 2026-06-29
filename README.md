@@ -65,10 +65,10 @@ Typography is serif-led. Chinese documents prefer `TsangerJinKai02` when availab
 
 ## Install / 安装
 
-### TRAE / skills CLI
+### TRAE CN / skills CLI
 
 ```bash
-npx skills add xiaowuwu0620/danshu --agent trae --global --yes
+npx skills add xiaowuwu0620/danshu --agent trae-cn --global --yes
 ```
 
 If you only want to check whether the skill can be discovered:
